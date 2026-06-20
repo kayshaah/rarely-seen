@@ -1,0 +1,998 @@
+[
+    {
+        "title": "Checkmate Skirt",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24909.jpg?v=1776236352",
+        "url": "https://weavingcult.com/products/checkmate-skirt"
+    },
+    {
+        "title": "Gingham Cascade Coord",
+        "price": "4999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-25056.jpg?v=1776245471",
+        "url": "https://weavingcult.com/products/gingham-cascade-coord"
+    },
+    {
+        "title": "Checkmate Cotton Midi",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24842.jpg?v=1776245562",
+        "url": "https://weavingcult.com/products/checkmate-cotton-midi"
+    },
+    {
+        "title": "Summer Bloom Co-ord",
+        "price": "4890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24499.jpg?v=1776245123",
+        "url": "https://weavingcult.com/products/summer-bloom-co-ord"
+    },
+    {
+        "title": "Amalfi Bloom Dress",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24381.jpg?v=1776237371",
+        "url": "https://weavingcult.com/products/amalfi-bloom-dress"
+    },
+    {
+        "title": "Flora Asym Dress",
+        "price": "4990.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24330.jpg?v=1776235412",
+        "url": "https://weavingcult.com/products/flora-asym-dress"
+    },
+    {
+        "title": "Checkmate Co-ord",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24879.jpg?v=1776236352",
+        "url": "https://weavingcult.com/products/checkmate-co-ord"
+    },
+    {
+        "title": "Blue Meadow Dress",
+        "price": "4890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24674.jpg?v=1776238723",
+        "url": "https://weavingcult.com/products/blue-meadow-dress"
+    },
+    {
+        "title": "Gingham Drift Dress",
+        "price": "3999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-25095.jpg?v=1776238490",
+        "url": "https://weavingcult.com/products/gingham-drift-dress"
+    },
+    {
+        "title": "Blossom Gingham Halter Dress",
+        "price": "4500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24760.jpg?v=1776238296",
+        "url": "https://weavingcult.com/products/blossom-gingham-halter-dress"
+    },
+    {
+        "title": "Flora Check Peplum Top",
+        "price": "3490.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24644.jpg?v=1776072321",
+        "url": "https://weavingcult.com/products/flora-check-peplum-top"
+    },
+    {
+        "title": "Gingham Cascade Top",
+        "price": "3690.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-25056.jpg?v=1776245471",
+        "url": "https://weavingcult.com/products/gingham-cascade-top"
+    },
+    {
+        "title": "Black Checkmate Ruffle Top",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24991.jpg?v=1776236622",
+        "url": "https://weavingcult.com/products/black-checkmate-ruffle-top"
+    },
+    {
+        "title": "One shoulder Gingham Shirt",
+        "price": "3100.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24538.jpg?v=1776244797",
+        "url": "https://weavingcult.com/products/one-shoulder-gingham-shirt"
+    },
+    {
+        "title": "Fresh Emerald Green Shirt",
+        "price": "3290.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WCsummer26-24107.jpg?v=1776242566",
+        "url": "https://weavingcult.com/products/fresh-emerald-green-shirt"
+    },
+    {
+        "title": "Tiffany Days Tee",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_3666.jpg?v=1775039956",
+        "url": "https://weavingcult.com/products/tiffany-days-tee"
+    },
+    {
+        "title": "Turtle Bloom Tee",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_3663.png?v=1775039794",
+        "url": "https://weavingcult.com/products/turtle-bloom-tee"
+    },
+    {
+        "title": "Tropical Memories Tee",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/F0ADEA73-81F1-46BF-BE39-50D08A648A64.png?v=1775039654",
+        "url": "https://weavingcult.com/products/tropical-memories-tee"
+    },
+    {
+        "title": "Matcha Summer Tee",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/F0672319-EEF2-4602-8803-2A76A850D3E9.jpg?v=1775039121",
+        "url": "https://weavingcult.com/products/matcha-summer-tee"
+    },
+    {
+        "title": "Croissant Hand-Painted Tee",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_3655.jpg?v=1775038819",
+        "url": "https://weavingcult.com/products/croissant-hand-painted-tee"
+    },
+    {
+        "title": "White Heart Tshirt (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260208_164328.png?v=1773301277",
+        "url": "https://weavingcult.com/products/white-heart-tshirt-only-for-kids"
+    },
+    {
+        "title": "Black Tshirt With Red Sequin Flowers (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/file_26-02-08_06-15-40-469.jpg?v=1773301197",
+        "url": "https://weavingcult.com/products/black-tshirt-with-red-sequin-flowers-only-for-kids"
+    },
+    {
+        "title": "White Tshirt With Rhinestone Flower (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260208_055635.png?v=1773301119",
+        "url": "https://weavingcult.com/products/white-tshirt-with-rhinestone-flower-only-for-kids"
+    },
+    {
+        "title": "White Tshirt With Pink Flower (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260208_054824.png?v=1773301021",
+        "url": "https://weavingcult.com/products/white-tshirt-with-pink-flower-only-for-kids"
+    },
+    {
+        "title": "Appliqu\u00e9 Love Designer T-shirt (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_3262.png?v=1773300927",
+        "url": "https://weavingcult.com/products/applique-love-designer-t-shirt-only-for-kids"
+    },
+    {
+        "title": "BLACK TSHIRT WITH 3D FLOWERS (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_2658.png?v=1773300738",
+        "url": "https://weavingcult.com/products/black-tshirt-with-3d-flowers-only-for-kids"
+    },
+    {
+        "title": "RHINESTONE BOW TSHIRT (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_3259.png?v=1773300613",
+        "url": "https://weavingcult.com/products/rhinestone-bow-tshirt-only-for-kids"
+    },
+    {
+        "title": "PINK BOW TSHIRT (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_2713.png?v=1773300542",
+        "url": "https://weavingcult.com/products/pink-bow-tshirt-only-for-kids"
+    },
+    {
+        "title": "FLORAL HANDPAINTED TSHIRT (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260226_100937.png?v=1773300066",
+        "url": "https://weavingcult.com/products/floral-handpainted-tshirt-only-for-kids"
+    },
+    {
+        "title": "Black Winged Tshirt (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260208_055118.png?v=1773299949",
+        "url": "https://weavingcult.com/products/black-winged-tshirt-only-for-kids"
+    },
+    {
+        "title": "White 3D Denim Rose Designer T-shirt (Only for kids)",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/889AB958-40B7-441D-B7A3-52172743A07F.png?v=1773299437",
+        "url": "https://weavingcult.com/products/white-3d-denim-rose-designer-t-shirt-only-for-kids"
+    },
+    {
+        "title": "FLORAL HANDPAINTED TSHIRT (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260226_101101.png?v=1773300066",
+        "url": "https://weavingcult.com/products/floral-handpainted-tshirt-pack-of-2"
+    },
+    {
+        "title": "PINK BOW TSHIRT (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_2712.png?v=1773300542",
+        "url": "https://weavingcult.com/products/pink-bow-tshirt-pack-of-2"
+    },
+    {
+        "title": "RHINESTONE BOW TSHIRT (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_3258.png?v=1773300613",
+        "url": "https://weavingcult.com/products/rhinestone-bow-tshirt-pack-of-2"
+    },
+    {
+        "title": "BLACK TSHIRT WITH 3D FLOWERS (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_2661.png?v=1773300738",
+        "url": "https://weavingcult.com/products/black-tshirt-with-3d-flowers-pack-of-2"
+    },
+    {
+        "title": "Appliqu\u00e9 Love Designer T-shirt (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_3265.png?v=1773300927",
+        "url": "https://weavingcult.com/products/applique-love-designer-t-shirt-pack-of-2"
+    },
+    {
+        "title": "White 3D Denim Rose Designer T-shirt (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG.0206202628.png?v=1780910254",
+        "url": "https://weavingcult.com/products/white-3d-denim-rose-designer-t-shirt-pack-of-2"
+    },
+    {
+        "title": "Black Winged Tshirt (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260208_055039.png?v=1773299949",
+        "url": "https://weavingcult.com/products/black-winged-tshirt-pack-of-2"
+    },
+    {
+        "title": "White Tshirt With Pink Flower (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260208_054530.png?v=1773301021",
+        "url": "https://weavingcult.com/products/white-tshirt-with-pink-flower-pack-of-2"
+    },
+    {
+        "title": "White Tshirt With Rhinestone Flower (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260208_055606.png?v=1773301119",
+        "url": "https://weavingcult.com/products/white-tshirt-with-rhinestone-flower-pack-of-2"
+    },
+    {
+        "title": "Black Tshirt With Red Sequin Flowers (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260207_180021.png?v=1773301197",
+        "url": "https://weavingcult.com/products/black-tshirt-with-red-sequin-flowers-pack-of-2"
+    },
+    {
+        "title": "White Heart Tshirt (Pack of 2 T-shirt)",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_20260208_175256.png?v=1773301277",
+        "url": "https://weavingcult.com/products/white-heart-tshirt-pack-of-2"
+    },
+    {
+        "title": "Floral Embrace Peplum Denim Coord Set",
+        "price": "5890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_9442.png?v=1747648792",
+        "url": "https://weavingcult.com/products/floral-embrace-peplum-denim-coord-set"
+    },
+    {
+        "title": "WEAVING CULT RED DRAMATIC PLEATED SLEEVE MIDI DRESS",
+        "price": "4500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_1775.png?v=1765187262",
+        "url": "https://weavingcult.com/products/weaving-cult-red-dramatic-pleated-sleeve-midi-dress"
+    },
+    {
+        "title": "The Copper Muse Dress",
+        "price": "4500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/DSC07784copy.jpg?v=1765277721",
+        "url": "https://weavingcult.com/products/the-copper-muse-dress"
+    },
+    {
+        "title": "The Golden Gleam Set",
+        "price": "5890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/DSC07985copy.jpg?v=1762885020",
+        "url": "https://weavingcult.com/products/the-golden-gleam-set"
+    },
+    {
+        "title": "The Golden Dusk Gown",
+        "price": "3999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/DSC07411copy.jpg?v=1765434321",
+        "url": "https://weavingcult.com/products/the-golden-dusk-gown"
+    },
+    {
+        "title": "Aurora Halter Dress",
+        "price": "3500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/DSC07855copy.jpg?v=1760592368",
+        "url": "https://weavingcult.com/products/aurora-halter-dress"
+    },
+    {
+        "title": "Elysia Dress",
+        "price": "4290.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/DSC07333copy.jpg?v=1765283034",
+        "url": "https://weavingcult.com/products/elysia-dress"
+    },
+    {
+        "title": "The Metallic Drape Coord Set",
+        "price": "4500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_1817.jpg?v=1765280060",
+        "url": "https://weavingcult.com/products/the-silver-metallic-gown-copy"
+    },
+    {
+        "title": "The Silver Metallic Gown",
+        "price": "3999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/DSC07589copy.jpg?v=1774863582",
+        "url": "https://weavingcult.com/products/the-silver-metallic-gown"
+    },
+    {
+        "title": "Neon Ros\u00e9 Strap Detail Co-ord Set",
+        "price": "5890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1649copy.jpg?v=1762170939",
+        "url": "https://weavingcult.com/products/neon-rose-strap-detail-co-ord-set"
+    },
+    {
+        "title": "Black Rose Cut-Out Set",
+        "price": "5500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI0755copy.jpg?v=1756206950",
+        "url": "https://weavingcult.com/products/black-rose-cut-out-set"
+    },
+    {
+        "title": "Black R\u00f3se Halter Top With Slit Skirt",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1105copy.jpg?v=1763402618",
+        "url": "https://weavingcult.com/products/black-rose-halter-top-with-slit-skirt"
+    },
+    {
+        "title": "Tie-Up Rose Top With Pants",
+        "price": "4999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI0880copy.jpg?v=1765354704",
+        "url": "https://weavingcult.com/products/tie-up-rose-top-with-pants"
+    },
+    {
+        "title": "Royal Ros\u00e9 Vest With Skirt",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI0709copy.jpg?v=1756206975",
+        "url": "https://weavingcult.com/products/royal-rose-vest-with-skirt"
+    },
+    {
+        "title": "Ros\u00e9 Pink Bustier Co-ord Set",
+        "price": "4999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1455copy.jpg?v=1756208287",
+        "url": "https://weavingcult.com/products/rose-pink-bustier-co-ord-set"
+    },
+    {
+        "title": "Red R\u00f3se Crop Top With Slit Skirt",
+        "price": "5999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1053copy.jpg?v=1756206999",
+        "url": "https://weavingcult.com/products/red-rose-crop-top-with-slit-skirt"
+    },
+    {
+        "title": "Back in Ros\u00e9",
+        "price": "5500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI0604copy.jpg?v=1756104820",
+        "url": "https://weavingcult.com/products/back-in-rose"
+    },
+    {
+        "title": "Royal Ros\u00e9 Mini",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI0434copy.jpg?v=1765374990",
+        "url": "https://weavingcult.com/products/royal-rose-mini"
+    },
+    {
+        "title": "Midnight Ros\u00e9 Gown",
+        "price": "7999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI0817copy.jpg?v=1756208018",
+        "url": "https://weavingcult.com/products/midnight-rose-gown"
+    },
+    {
+        "title": "Sage R\u00f3se Pleated Midi Dress",
+        "price": "4999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1323copy.jpg?v=1756208506",
+        "url": "https://weavingcult.com/products/sage-rose-pleated-midi-dress"
+    },
+    {
+        "title": "Sage R\u00f3se Tulip Dress",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1271copy.jpg?v=1756102509",
+        "url": "https://weavingcult.com/products/sage-rose-tulip-dress"
+    },
+    {
+        "title": "Red Rosette Off-Shoulder",
+        "price": "4500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI0960copy.jpg?v=1765374990",
+        "url": "https://weavingcult.com/products/red-rosette-off-shoulder"
+    },
+    {
+        "title": "Violet R\u00f3se Blazer Dress",
+        "price": "5500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1165copy.jpg?v=1756207064",
+        "url": "https://weavingcult.com/products/violet-rose-blazer-dress"
+    },
+    {
+        "title": "Ros\u00e9 Pink Off-Shoulder Midi Dress",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1557copy.jpg?v=1765374990",
+        "url": "https://weavingcult.com/products/rose-pink-off-shoulder-midi-dress"
+    },
+    {
+        "title": "Neon Ros\u00e9 Square Neck Dress",
+        "price": "4500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1493copy.jpg?v=1756208566",
+        "url": "https://weavingcult.com/products/neon-rose-square-neck-dress"
+    },
+    {
+        "title": "Black R\u00f3se Midi Dress",
+        "price": "3999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI0404copy.jpg?v=1756208197",
+        "url": "https://weavingcult.com/products/black-rose-midi-dress"
+    },
+    {
+        "title": "Neon Ros\u00e9 Vest",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVING_CULT_-_AAYUSHI1682_copy.jpg?v=1756100350",
+        "url": "https://weavingcult.com/products/neon-rose-vest"
+    },
+    {
+        "title": "Royal R\u00f3se One Shoulder Top",
+        "price": "2500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI0978copy.jpg?v=1756207979",
+        "url": "https://weavingcult.com/products/royal-rose-one-shoulder-top"
+    },
+    {
+        "title": "Sage R\u00f3se Vest",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1418copy.jpg?v=1756208452",
+        "url": "https://weavingcult.com/products/sage-rose-vest"
+    },
+    {
+        "title": "Red R\u00f3se Top",
+        "price": "2590.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1805copy.jpg?v=1756207645",
+        "url": "https://weavingcult.com/products/red-rose-top"
+    },
+    {
+        "title": "Studded Potli Bag",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WC-391copy.jpg?v=1752776149",
+        "url": "https://weavingcult.com/products/studded-potli-bag"
+    },
+    {
+        "title": "Vanity Bag",
+        "price": "1890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WC-199_copy.jpg?v=1753851558",
+        "url": "https://weavingcult.com/products/vanity-bag"
+    },
+    {
+        "title": "Half Moon Sling",
+        "price": "1890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WC-248copy.jpg?v=1752659167",
+        "url": "https://weavingcult.com/products/half-moon-sling"
+    },
+    {
+        "title": "Open Bucket Bag",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WC-088copy.jpg?v=1752658399",
+        "url": "https://weavingcult.com/products/open-bucket-bag"
+    },
+    {
+        "title": "DENIM BLOOM SHIRT",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Untitled_002d19fe-dbdd-4363-8642-836a6fa837cb.png?v=1753849557",
+        "url": "https://weavingcult.com/products/denim-bloom-shirt-with-skirt-copy"
+    },
+    {
+        "title": "Denim Bloom Boxy Crop Shirt",
+        "price": "3500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Untitled.png?v=1747655936",
+        "url": "https://weavingcult.com/products/denim-bloom-boxy-crop-shirt-with-bloom-mini-skirt-copy"
+    },
+    {
+        "title": "Denim Bloom Mini Skirt",
+        "price": "2800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/NO_EDIT_2.jpg?v=1747655429",
+        "url": "https://weavingcult.com/products/denim-bloom-boxy-crop-shirt-with-bloom-mini-skirt-copy-1"
+    },
+    {
+        "title": "DENIM SHORT SKIRT ( only)",
+        "price": "2200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_9411.png?v=1753849557",
+        "url": "https://weavingcult.com/products/denim-bloom-shirt-with-skirt-copy-1"
+    },
+    {
+        "title": "Denim Bloom Strapless Top With Bloom Gathered Mini Skirt",
+        "price": "5500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_9433.png?v=1747637852",
+        "url": "https://weavingcult.com/products/denim-bloom-strapless-top-with-bloom-gathered-mini-skirt"
+    },
+    {
+        "title": "DENIM BLOOM SHIRT WITH SKIRT",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Untitled_002d19fe-dbdd-4363-8642-836a6fa837cb.png?v=1753849557",
+        "url": "https://weavingcult.com/products/denim-bloom-shirt-with-skirt"
+    },
+    {
+        "title": "Organza Bow-Tie Balloon Sleeve Shirt with Dungaree Midi Dres",
+        "price": "7999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/AF8EBA71-1387-4778-9588-8F47008FCB79.jpg?v=1747639960",
+        "url": "https://weavingcult.com/products/organza-bow-tie-balloon-sleeve-shirt-with-dungaree-midi-dres"
+    },
+    {
+        "title": "Denim Bloom Pleated Midi Dress",
+        "price": "6999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Noedit_82ebfc58-335b-4e81-aeb1-183b98a2331d.jpg?v=1753849332",
+        "url": "https://weavingcult.com/products/denim-bloom-pleated-midi-dress"
+    },
+    {
+        "title": "Denim Petal Flare Mini Dress",
+        "price": "5500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/8F09659D-8F2B-4992-9C25-78DDAA89EC1D.jpg?v=1747648478",
+        "url": "https://weavingcult.com/products/denim-petal-flare-mini-dress"
+    },
+    {
+        "title": "Denim Bloom Cutout Short Dress",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/13E436D2-C62C-463D-919A-A979E4CF6B5E.jpg?v=1747648376",
+        "url": "https://weavingcult.com/products/denim-bloom-cutout-short-dress"
+    },
+    {
+        "title": "Denim Blossom Midi (handmade 3D roses)",
+        "price": "6200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/47d9e827-21f3-417a-8588-8c04f0be9f45.jpg?v=1752478792",
+        "url": "https://weavingcult.com/products/denim-blossom-midi"
+    },
+    {
+        "title": "Denim Bloom Vest Top",
+        "price": "4500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_9518.png?v=1753852101",
+        "url": "https://weavingcult.com/products/denim-bloom-crop-blazer"
+    },
+    {
+        "title": "Floral Embrace Peplum Denim Top",
+        "price": "3890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_9442.png?v=1747648792",
+        "url": "https://weavingcult.com/products/floral-embrace-peplum-denim-top"
+    },
+    {
+        "title": "Denim Bloom Halter Crop Top",
+        "price": "3500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_9537_62febee5-d4f4-4a49-8a37-4acc6ce1c842.png?v=1753851871",
+        "url": "https://weavingcult.com/products/denim-bloom-halter-crop-top"
+    },
+    {
+        "title": "Bloom One-Shoulder Denim top",
+        "price": "2700.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/CopyofDSC05862.jpg?v=1753851727",
+        "url": "https://weavingcult.com/products/bloom-one-shoulder-denim-crop"
+    },
+    {
+        "title": "Denim Bloom Sleeveless Vest",
+        "price": "3780.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_8119.jpg?v=1747462007",
+        "url": "https://weavingcult.com/products/denim-bloom-sleeveless-vest"
+    },
+    {
+        "title": "BLACK TSHIRT WITH 3D FLOWERS",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/firstpicture_87cffca8-cc6e-4f32-a8d9-919234ef03c8.jpg?v=1743686513",
+        "url": "https://weavingcult.com/products/black-tshirt-with-3d-flowers"
+    },
+    {
+        "title": "QUEEN OF FUCKING EVERYTHING TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/F127606A-A516-4E86-AF47-D236F3ECEBB9-6616-000003CDA4F14968.jpg?v=1743767723",
+        "url": "https://weavingcult.com/products/queen-of-fucking-everything-tshirt"
+    },
+    {
+        "title": "WINE EMBROIDERED TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/1156CDEC-07D0-4321-987D-4FAC3D16D5AC-6616-000003D10FAF2002.jpg?v=1743767669",
+        "url": "https://weavingcult.com/products/wine-embroidered-tshirt"
+    },
+    {
+        "title": "RHINESTONE BOW TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/first_picture_213fe4c1-adee-4d64-a0de-1249598b08a5.jpg?v=1743686763",
+        "url": "https://weavingcult.com/products/rhinestone-bow-tshirt"
+    },
+    {
+        "title": "PINK BOW TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/C1D73EA3-626C-47C3-AB2F-5A4CA9BCCD15-6616-000003D28156DB09.jpg?v=1743758200",
+        "url": "https://weavingcult.com/products/pink-bow-tshirt"
+    },
+    {
+        "title": "FLORAL HANDPAINTED TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/front_picture_9bd0a45c-ca3b-4465-9aff-2d86400f6456.jpg?v=1743686835",
+        "url": "https://weavingcult.com/products/floral-handpainted-tshirt"
+    },
+    {
+        "title": "TULIP HANDPAINTED TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/7FF0A100-ACC3-4835-9D12-9097157B4842-6616-000003D0702A936B.jpg?v=1743668089",
+        "url": "https://weavingcult.com/products/tulip-handpainted-tshirt"
+    },
+    {
+        "title": "MARTINI HANDPAINTED TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/4739FF69-C09D-423A-A4CF-6796AC21E288-6616-000003D1B6F7B99A.jpg?v=1743767806",
+        "url": "https://weavingcult.com/products/margarita-handpainted-tshirt"
+    },
+    {
+        "title": "MIMOSA HANDPAINTED TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/front_picture.jpg?v=1743685818",
+        "url": "https://weavingcult.com/products/mimosa-handpainted-tshirt"
+    },
+    {
+        "title": "COSMO HAND PAINTED TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/FIRST_PICTURE.jpg?v=1743685719",
+        "url": "https://weavingcult.com/products/cosmo-hand-painted-tshirt"
+    },
+    {
+        "title": "Denim Blazer Set With Rhinestone Embellishments",
+        "price": "8500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weaving_Cult22Jan14882.jpg?v=1739438902",
+        "url": "https://weavingcult.com/products/denim-blazer-with-rhinestone-embellishments-only-blazer-copy"
+    },
+    {
+        "title": "Denim And Black Colour Block Blazer (Only Blazer)",
+        "price": "4999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_4527.jpg?v=1758081892",
+        "url": "https://weavingcult.com/products/denim-and-black-colour-block-blazer-set-copy"
+    },
+    {
+        "title": "Denim Colour Block Blazer (Only Blazer)",
+        "price": "4999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weaving_Cult22Jan14956.jpg?v=1758082035",
+        "url": "https://weavingcult.com/products/denim-colour-block-blazer-set-copy"
+    },
+    {
+        "title": "Denim Blazer With Rhinestone Embellishments (Only Blazer)",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weaving_Cult22Jan14916.jpg?v=1739438902",
+        "url": "https://weavingcult.com/products/denim-blazer-set-with-rhinestone-embellishments"
+    },
+    {
+        "title": "Denim And Black Colour Block Blazer Set",
+        "price": "7500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weaving_Cult22Jan15049.jpg?v=1758081627",
+        "url": "https://weavingcult.com/products/denim-and-black-colour-block-blazer-set"
+    },
+    {
+        "title": "Red Cape Sleeve Blazer With Skirt",
+        "price": "9999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weaving_Cult22Jan15093.jpg?v=1739511979",
+        "url": "https://weavingcult.com/products/red-cape-sleeve-blazer-with-skirt"
+    },
+    {
+        "title": "Denim Colour Block Blazer Set",
+        "price": "7200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weaving_Cult22Jan14981.jpg?v=1758082035",
+        "url": "https://weavingcult.com/products/denim-colour-block-blazer-set"
+    },
+    {
+        "title": "Ice Blue Structured Blazer Set With 3d Flowers",
+        "price": "8999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weaving_Cult22Jan14870.jpg?v=1739510411",
+        "url": "https://weavingcult.com/products/ice-blue-structured-blazer-set-with-3d-flowers"
+    },
+    {
+        "title": "Royal Blue Assyemtrical Blazer Set",
+        "price": "7890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weaving_Cult22Jan14788.jpg?v=1765290083",
+        "url": "https://weavingcult.com/products/royal-blue-assyemtrical-blazer-set"
+    },
+    {
+        "title": "Halter Neck 3D Flower Top With Back",
+        "price": "4500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1740.jpg?v=1756372010",
+        "url": "https://weavingcult.com/products/halter-neck-3d-flower-top-with-back"
+    },
+    {
+        "title": "Weaving Cult Silver Tissue Embellished Shirt With Drape Skirt",
+        "price": "6999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_2820.jpg?v=1729861432",
+        "url": "https://weavingcult.com/products/weaving-cult-silver-tissue-embellished-shirt-with-drape-skirt"
+    },
+    {
+        "title": "Weaving Cult Rose Gold Tissue Embellished Coord",
+        "price": "9200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/weavingcult02530745.jpg?v=1728627545",
+        "url": "https://weavingcult.com/products/weaving-cult-rose-gold-tissue-embellished-coord"
+    },
+    {
+        "title": "Weaving Cult Rose Gold Sequin Top With Drape Skirt",
+        "price": "5900.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/0a5128bf-b175-4999-8747-6a9dba518db2.jpg?v=1762799275",
+        "url": "https://weavingcult.com/products/weaving-cult-rose-gold-sequin-top-with-drape-skirt"
+    },
+    {
+        "title": "Weaving Cult Silver Tissue Bias Top With Flared Pants",
+        "price": "6999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/weavingcult025429565.jpg?v=1728540874",
+        "url": "https://weavingcult.com/products/weaving-cult-silver-tissue-bias-top-with-flared-pants"
+    },
+    {
+        "title": "Weaving Cult Silver Tissue Embellished Shirt With Trousers",
+        "price": "7200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept4273.jpg?v=1728540373",
+        "url": "https://weavingcult.com/products/weaving-cult-silver-tissue-embellished-shirt-with-trousers"
+    },
+    {
+        "title": "Weaving Cult Gold Tissue Embellished Shirt With Drape Skirt",
+        "price": "6999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/MEHER_PICTURES_bcdb6dc6-5408-425d-82fc-dedf84328760.jpg?v=1736840147",
+        "url": "https://weavingcult.com/products/weaving-cult-gold-tissue-embellished-shirt-with-drape-skirt"
+    },
+    {
+        "title": "Weaving Cult Rose Gold Tissue Embellished Shirt With Trousers",
+        "price": "7200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept413245.jpg?v=1728539927",
+        "url": "https://weavingcult.com/products/weaving-cult-rose-gold-tissue-embellished-shirt-with-trousers"
+    },
+    {
+        "title": "Weaving Cult Gold Ruffle Top With Skirt",
+        "price": "7200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept3921.jpg?v=1728539345",
+        "url": "https://weavingcult.com/products/weaving-cult-gold-ruffle-top-with-skirt"
+    },
+    {
+        "title": "Weaving Cult Silver Tissue Embellished Coord",
+        "price": "7200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept4441.jpg?v=1762799478",
+        "url": "https://weavingcult.com/products/weaving-cult-silver-tissue-embellished-coord"
+    },
+    {
+        "title": "Weaving Cult Rose Gold Tissue Dress With Embellished Belt",
+        "price": "8200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/weavingcult025716454.jpg?v=1728538358",
+        "url": "https://weavingcult.com/products/weaving-cult-rose-gold-tissue-dress-with-embellished-belt"
+    },
+    {
+        "title": "Weaving Cult Silver Tissue Dress With Embellished Belt",
+        "price": "8200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept519245.jpg?v=1728537949",
+        "url": "https://weavingcult.com/products/weaving-cult-silver-tissue-dress-with-embellished-belt"
+    },
+    {
+        "title": "Weaving Cult Rose Gold Tissue Flared Embellished Dress",
+        "price": "5500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept5128-Recovered454.jpg?v=1728537604",
+        "url": "https://weavingcult.com/products/weaving-cult-rose-gold-tissue-flared-embellished-dress"
+    },
+    {
+        "title": "Weaving Cult Rose Gold Tissue Embellished Off Shoulder Dress",
+        "price": "8200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept4954.jpg?v=1736841174",
+        "url": "https://weavingcult.com/products/weaving-cult-rose-gold-tissue-embellished-off-shoulder-dress"
+    },
+    {
+        "title": "Weaving Cult Gold Tissue Off Shoulder Embellished Dress",
+        "price": "8200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/weavingcult02548245.jpg?v=1728536782",
+        "url": "https://weavingcult.com/products/weaving-cult-gold-tissue-flared-embellished-dress-1"
+    },
+    {
+        "title": "Weaving Cult Gold Tissue Flared Embellished Dress",
+        "price": "5500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept4624_c476663a-48bf-47c4-ba69-bdc26cbec178.jpg?v=1728536265",
+        "url": "https://weavingcult.com/products/weaving-cult-gold-tissue-flared-embellished-dress"
+    },
+    {
+        "title": "Weaving Cult Gold Tissue Ruffle Top",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept391545.jpg?v=1728534384",
+        "url": "https://weavingcult.com/products/weaving-cult-gold-tissue-embellished-shirt-1"
+    },
+    {
+        "title": "Weaving Cult Gold Tissue Embellished Shirt",
+        "price": "4999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept40324.jpg?v=1728534054",
+        "url": "https://weavingcult.com/products/weaving-cult-gold-tissue-embellished-shirt"
+    },
+    {
+        "title": "Weaving Cult Rose Gold Tissue Embellished Shirt",
+        "price": "4500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/Weavingcult_30thsept413254.jpg?v=1728496125",
+        "url": "https://weavingcult.com/products/weaving-cult-rose-gold-tissue-embellished-shirt"
+    },
+    {
+        "title": "White Short Dress With Denim Belt",
+        "price": "3150.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_2739.jpg?v=1722008012",
+        "url": "https://weavingcult.com/products/white-short-dress-with-denim-belt"
+    },
+    {
+        "title": "Ruched Bustier With One Shoulder Trail Dress",
+        "price": "5500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/IMG_0494.heic?v=1720014263",
+        "url": "https://weavingcult.com/products/ruched-bustier-with-one-shoulder-cape"
+    },
+    {
+        "title": "Yellow Tie Up Bow Top With Flared Skirt",
+        "price": "4500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_935064.jpg?v=1717388324",
+        "url": "https://weavingcult.com/products/yellow-tie-up-bow-top-with-flared-skirt"
+    },
+    {
+        "title": "White Shirt With Halter Neck 3D Flower Top",
+        "price": "5890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/5a857e30-d80b-45d4-84c7-3929a7779872.jpg?v=1750404241",
+        "url": "https://weavingcult.com/products/white-shirt-with-halter-neck-3d-flower-top"
+    },
+    {
+        "title": "Blazer Set With Denim Bow",
+        "price": "6200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_930438.jpg?v=1717388045",
+        "url": "https://weavingcult.com/products/blazer-set-with-denim-bow"
+    },
+    {
+        "title": "3D Flower Denim Vest With Pants",
+        "price": "4899.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_9339934.jpg?v=1717387872",
+        "url": "https://weavingcult.com/products/denim-vest-with-flower-detailing-with-pants"
+    },
+    {
+        "title": "White Shirt Dress With Cropped Jacket",
+        "price": "3150.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_926543.jpg?v=1717387704",
+        "url": "https://weavingcult.com/products/white-shirt-dress-with-cropped-jacket"
+    },
+    {
+        "title": "White Shirt Dress With Denim Flower Belt",
+        "price": "3999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_927265.jpg?v=1717387539",
+        "url": "https://weavingcult.com/products/white-shirt-dress-with-denim-flower-belt"
+    },
+    {
+        "title": "Denim Slip Dress",
+        "price": "3500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/FRONT3TYTRRRRRRRRRRRRRRRRR_cdd88a88-7ad2-411c-a55a-3cf02f4c371e.jpg?v=1717387357",
+        "url": "https://weavingcult.com/products/denim-slip-dress"
+    },
+    {
+        "title": "Colour Block Denim With Cotton Dress",
+        "price": "3450.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/look4.jpg?v=1717353302",
+        "url": "https://weavingcult.com/products/colour-block-denim-with-cotton-dress"
+    },
+    {
+        "title": "Weaving Cult All Heart Colour Block Dress",
+        "price": "6500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/KOMAL_PICTURES.jpg?v=1750405367",
+        "url": "https://weavingcult.com/products/weaving-cult-all-heart-colour-block-dress"
+    },
+    {
+        "title": "Tie Up Cotton Dress With Denim Jacket",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_928035.jpg?v=1775244048",
+        "url": "https://weavingcult.com/products/tie-up-cotton-dress-with-denim-jacket"
+    },
+    {
+        "title": "Denim Dramatic Pleated Sleeve Midi Dress",
+        "price": "3850.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may424_92960.jpg?v=1717350263",
+        "url": "https://weavingcult.com/products/denim-dramatic-pleated-sleeve-midi-dress"
+    },
+    {
+        "title": "White Short Dress With Detachable Denim Panel",
+        "price": "5500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_928545.jpg?v=1717349974",
+        "url": "https://weavingcult.com/products/white-short-dress-with-detachable-denim-panel"
+    },
+    {
+        "title": "White Button Down Dress With Denim Panel",
+        "price": "4123.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/front_24.jpg?v=1717349648",
+        "url": "https://weavingcult.com/products/white-button-down-dress-with-denim-panel"
+    },
+    {
+        "title": "Weaving Cult Denim Vest With Flower Detailing",
+        "price": "2940.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_913410.jpg?v=1717348771",
+        "url": "https://weavingcult.com/products/weaving-cult-denim-vest-with-flower-detailing"
+    },
+    {
+        "title": "White Shirt With Detachable Collar",
+        "price": "3590.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_932405.jpg?v=1717670789",
+        "url": "https://weavingcult.com/products/white-shirt-with-detachable-collar"
+    },
+    {
+        "title": "Denim Bow Top",
+        "price": "2450.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/fro4nt.jpg?v=1717348216",
+        "url": "https://weavingcult.com/products/denim-bow-top"
+    },
+    {
+        "title": "Off Shoulder Denim Top With Choker",
+        "price": "2799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/front4_1.jpg?v=1717347848",
+        "url": "https://weavingcult.com/products/off-shoulder-denim-top-with-choker"
+    },
+    {
+        "title": "Halter Neck 3D Flower Top",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_931621.jpg?v=1771504163",
+        "url": "https://weavingcult.com/products/halter-neck-3d-flower-top"
+    },
+    {
+        "title": "All Heart Top",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WEAVINGCULT-AAYUSHI1726.jpg?v=1756273880",
+        "url": "https://weavingcult.com/products/all-heart-top"
+    },
+    {
+        "title": "BLACK TSHIRT WITH RHINESTONE FLOWER",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/WeavingCult_25may24_933511.jpg?v=1717769761",
+        "url": "https://weavingcult.com/products/black-tshirt-with-rhinestone-flower"
+    },
+    {
+        "title": "WHITE PETAL TSHIRT WITH RHINESTONES",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/TEES04_1.jpg?v=1716346655",
+        "url": "https://weavingcult.com/products/white-petal-tshirt-with-rhinestones"
+    },
+    {
+        "title": "BLACK FRILLED TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/TEES05_2.jpg?v=1716346449",
+        "url": "https://weavingcult.com/products/black-frilled-tshirt"
+    },
+    {
+        "title": "BLACK TSHIRT WITH RED SEQUIN FLOWERS",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/TEES06_1.jpg?v=1716201010",
+        "url": "https://weavingcult.com/products/black-tshirt-with-red-sequin-flowers"
+    },
+    {
+        "title": "BLACK WINGED TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/TEES09_1.jpg?v=1716199887",
+        "url": "https://weavingcult.com/products/black-winged-tshirt"
+    },
+    {
+        "title": "WHITE TSHIRT WITH RHINESTONE FLOWER",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/URMI_PICTURES_13216d78-6cff-43e8-bb43-6e94b47529fb.jpg?v=1762413294",
+        "url": "https://weavingcult.com/products/white-tshirt-with-rhinestone-flower"
+    },
+    {
+        "title": "WHITE TSHIRT WITH PINK FLOWER",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/TEES10_3.jpg?v=1716199350",
+        "url": "https://weavingcult.com/products/white-tshirt-with-pink-flower"
+    },
+    {
+        "title": "BLOSSOM BLAZER DRESS",
+        "price": "3999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/AyushiMehta_18may22_80387.jpg?v=1716019055",
+        "url": "https://weavingcult.com/products/blossom-blazer-dress"
+    },
+    {
+        "title": "CHERRY BLOSSOM CORSET",
+        "price": "3999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/front_-4_6f966fbc-4181-4496-827e-75d52acf8b24.jpg?v=1716018872",
+        "url": "https://weavingcult.com/products/cherry-blossom-corset"
+    },
+    {
+        "title": "BUTTERY PRINTED SLIP DRESS",
+        "price": "3890.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/front_-5_df3b1462-5db7-4d21-95b1-8c39493982cc.jpg?v=1716018673",
+        "url": "https://weavingcult.com/products/buttery-printed-slip-dress"
+    },
+    {
+        "title": "FLORAL PRINT CROPPED BLAZER",
+        "price": "3500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/AyushiMehta_18may22_80124.jpg?v=1716014475",
+        "url": "https://weavingcult.com/products/floral-print-cropped-blazer"
+    },
+    {
+        "title": "FLORAL PRINTED DRAPED MIDI DRESS",
+        "price": "3999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/AyushiMehta_18may22_80344.jpg?v=1717936446",
+        "url": "https://weavingcult.com/products/floral-printed-draped-midi-dress"
+    },
+    {
+        "title": "BLOSSOM SHEER TRENCH",
+        "price": "3599.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/look-4.jpg?v=1716013272",
+        "url": "https://weavingcult.com/products/blossom-sheer-trench"
+    },
+    {
+        "title": "WHITE HEART TSHIRT",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/URMI_PICTURES.jpg?v=1771505954",
+        "url": "https://weavingcult.com/products/white-heart-tshirt"
+    },
+    {
+        "title": "PEARL PINK DRAPED GOWN",
+        "price": "6500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0664/1850/7955/files/FRONT-3.jpg?v=1715590894",
+        "url": "https://weavingcult.com/products/pearl-pink-draped-gown"
+    }
+]

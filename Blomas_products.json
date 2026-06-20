@@ -1,0 +1,488 @@
+[
+    {
+        "title": "Serena Top",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_9068eaba-9043-4dd8-85f1-f12d6741b80d.jpg?v=1715711258",
+        "url": "https://blomas.in/products/the-serena-top"
+    },
+    {
+        "title": "Tulum Shorts",
+        "price": "1799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession03891_73da41b7-0da5-43a2-a38e-8ddb9d044a10.jpg?v=1749731080",
+        "url": "https://blomas.in/products/tulum-shorts"
+    },
+    {
+        "title": "Tulum Set",
+        "price": "3099.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession03891.jpg?v=1749730910",
+        "url": "https://blomas.in/products/tulum-set"
+    },
+    {
+        "title": "Tulum Shirt",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession03541_be46525d-a06d-4fce-a523-e06f70ead0f1.jpg?v=1749730983",
+        "url": "https://blomas.in/products/tulum-shirt"
+    },
+    {
+        "title": "Carla Skirt",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0793_a381db75-f5be-47a9-a872-688fc2f30361.jpg?v=1749730747",
+        "url": "https://blomas.in/products/carla-skirt"
+    },
+    {
+        "title": "Carla Shirt",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0793_11fa87a3-c7e2-4fec-859f-74ec1e32ac09.jpg?v=1749730536",
+        "url": "https://blomas.in/products/carla-shirt"
+    },
+    {
+        "title": "Carla Set",
+        "price": "2299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0761.jpg?v=1749730375",
+        "url": "https://blomas.in/products/carla-set"
+    },
+    {
+        "title": "Haley Pants",
+        "price": "2199.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession06451_35474b27-d87e-465a-b151-d8811232dbea.jpg?v=1749730175",
+        "url": "https://blomas.in/products/haley-pants"
+    },
+    {
+        "title": "Haley Top",
+        "price": "1299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession07171.jpg?v=1749730142",
+        "url": "https://blomas.in/products/haley-top"
+    },
+    {
+        "title": "Haley Set",
+        "price": "3499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession07001.jpg?v=1749729392",
+        "url": "https://blomas.in/products/haley-set"
+    },
+    {
+        "title": "Mia Dress",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession00191.jpg?v=1749728383",
+        "url": "https://blomas.in/products/mia-dress"
+    },
+    {
+        "title": "Daphne Dress",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0571.jpg?v=1749728242",
+        "url": "https://blomas.in/products/daphne-dress"
+    },
+    {
+        "title": "Sunset Dress",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0165.jpg?v=1749728042",
+        "url": "https://blomas.in/products/sunset-dress"
+    },
+    {
+        "title": "Milano Dress",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/shopify_size_new_11zon.jpg?v=1749795969",
+        "url": "https://blomas.in/products/milano-dress"
+    },
+    {
+        "title": "Audrey Dress",
+        "price": "2499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0481.jpg?v=1749726849",
+        "url": "https://blomas.in/products/audrey-dress"
+    },
+    {
+        "title": "Lana Dress",
+        "price": "3099.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0369.jpg?v=1749726625",
+        "url": "https://blomas.in/products/lana-dress"
+    },
+    {
+        "title": "Anastasia Dress",
+        "price": "2499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession01991.jpg?v=1749726475",
+        "url": "https://blomas.in/products/anastasia-dress"
+    },
+    {
+        "title": "Catherine Dress",
+        "price": "3099.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0338.jpg?v=1749726336",
+        "url": "https://blomas.in/products/catherine-dress"
+    },
+    {
+        "title": "Sabrina Dress",
+        "price": "2299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/IMG_6700.heic?v=1749724894",
+        "url": "https://blomas.in/products/sabrina-dress"
+    },
+    {
+        "title": "Mandy Set - Shirt",
+        "price": "4499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0425.jpg?v=1749731151",
+        "url": "https://blomas.in/products/mandy-set-shirt"
+    },
+    {
+        "title": "Mandy Shirt",
+        "price": "2399.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0468_37eaf6b7-04e0-44e1-8a56-6874330fc22e.jpg?v=1749731270",
+        "url": "https://blomas.in/products/mandy-shirt"
+    },
+    {
+        "title": "Lily Set",
+        "price": "4299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession06121.jpg?v=1749731410",
+        "url": "https://blomas.in/products/lily-set"
+    },
+    {
+        "title": "Lily Top",
+        "price": "1799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession05411.jpg?v=1749731590",
+        "url": "https://blomas.in/products/lily-top"
+    },
+    {
+        "title": "Lily Skirt",
+        "price": "2699.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession05701_161b0c63-5ce0-4012-a545-1439e92f8e2d.jpg?v=1749731625",
+        "url": "https://blomas.in/products/lily-skirt"
+    },
+    {
+        "title": "Ida Set",
+        "price": "4299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession04961.jpg?v=1749731679",
+        "url": "https://blomas.in/products/ida-set"
+    },
+    {
+        "title": "Ida Pants",
+        "price": "2699.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession05201_3af05014-7001-4e18-bff9-dfd7a3b983a3.jpg?v=1749731779",
+        "url": "https://blomas.in/products/ida-pants"
+    },
+    {
+        "title": "Alexa Set",
+        "price": "3499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession02721.jpg?v=1749731997",
+        "url": "https://blomas.in/products/alexa-set"
+    },
+    {
+        "title": "Rory Set",
+        "price": "3799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession03371.jpg?v=1749732108",
+        "url": "https://blomas.in/products/rory-set"
+    },
+    {
+        "title": "Rory Shirt",
+        "price": "2199.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession03351_dac5b2d6-e61b-4ea3-ad33-47b9574039ac.jpg?v=1749732186",
+        "url": "https://blomas.in/products/rory-shirt"
+    },
+    {
+        "title": "Rory Pants",
+        "price": "2199.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession02341_f178c36f-6e80-456f-b050-6f2f3305c68d.jpg?v=1749732318",
+        "url": "https://blomas.in/products/rory-pants"
+    },
+    {
+        "title": "Skye Set",
+        "price": "3199.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0701_e85b0cc6-cb95-47cd-9924-409b1d5e6499.jpg?v=1749732411",
+        "url": "https://blomas.in/products/skye-set"
+    },
+    {
+        "title": "Skye Skort",
+        "price": "1399.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0741.jpg?v=1749731902",
+        "url": "https://blomas.in/products/skye-skort"
+    },
+    {
+        "title": "Fino Top",
+        "price": "1799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession06861_640ca062-b19f-4b84-adec-8df9a30f1f5d.jpg?v=1749732704",
+        "url": "https://blomas.in/products/fino-top"
+    },
+    {
+        "title": "Molly Dress",
+        "price": "1699.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0020.jpg?v=1749724642",
+        "url": "https://blomas.in/products/molly-dress"
+    },
+    {
+        "title": "Fino Set",
+        "price": "3499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession06451_5c4d64ba-3970-4005-a71d-da26e836cdff.jpg?v=1749732648",
+        "url": "https://blomas.in/products/fino-set"
+    },
+    {
+        "title": "Taylor Dress",
+        "price": "2899.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0865.jpg?v=1749724209",
+        "url": "https://blomas.in/products/taylor-dress"
+    },
+    {
+        "title": "Nicole Dress",
+        "price": "3199.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0096.jpg?v=1749724100",
+        "url": "https://blomas.in/products/nicole-dress"
+    },
+    {
+        "title": "Claire Dress",
+        "price": "2499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession0652.jpg?v=1749723939",
+        "url": "https://blomas.in/products/claire-dress"
+    },
+    {
+        "title": "Lagos Set",
+        "price": "1899.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/UntitledSession00701.jpg?v=1749730324",
+        "url": "https://blomas.in/products/lagos-set"
+    },
+    {
+        "title": "Peggy Set",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/ShopifySize_22.jpg?v=1734167509",
+        "url": "https://blomas.in/products/peggy-set"
+    },
+    {
+        "title": "Cassie Set",
+        "price": "3299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Shopify_Size_40.jpg?v=1737365498",
+        "url": "https://blomas.in/products/cassie-set"
+    },
+    {
+        "title": "Cassie Skirt",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Shopify_Size_41.jpg?v=1737365673",
+        "url": "https://blomas.in/products/cassie-skirt"
+    },
+    {
+        "title": "Laguna Shirt",
+        "price": "2699.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Shopify_Size_36.jpg?v=1737364616",
+        "url": "https://blomas.in/products/laguna-shirt"
+    },
+    {
+        "title": "Laguna Pants",
+        "price": "2699.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Shopify_Size_36.jpg?v=1737364616",
+        "url": "https://blomas.in/products/laguna-pants"
+    },
+    {
+        "title": "Laguna Set",
+        "price": "3799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/2_9fe4df51-9d98-4940-a978-57ed47af23d2.jpg?v=1737362826",
+        "url": "https://blomas.in/products/laguna-set"
+    },
+    {
+        "title": "Sylvie Dress",
+        "price": "2899.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/2_e00d9528-34ca-4aea-b42d-1647eb153806.jpg?v=1735749380",
+        "url": "https://blomas.in/products/sylvie-dress"
+    },
+    {
+        "title": "Cher Set",
+        "price": "3099.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/4_87e65081-99ad-4ae7-bac3-a43d40b49fef.jpg?v=1734604012",
+        "url": "https://blomas.in/products/cher-set"
+    },
+    {
+        "title": "Charlotte Top",
+        "price": "1899.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/ShopifySize_32.jpg?v=1734187784",
+        "url": "https://blomas.in/products/charlotte-top"
+    },
+    {
+        "title": "Jade Top",
+        "price": "1799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Shopify_Size_35.jpg?v=1734187973",
+        "url": "https://blomas.in/products/jade-top"
+    },
+    {
+        "title": "Carrie Top",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/ShopifySize_27.jpg?v=1734170041",
+        "url": "https://blomas.in/products/carrie-top"
+    },
+    {
+        "title": "Olivia Shirt Dress",
+        "price": "2299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Shopify_Size_20.jpg?v=1734127681",
+        "url": "https://blomas.in/products/olivia-shirt-dress"
+    },
+    {
+        "title": "Zoe Dress",
+        "price": "1799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Shopify_Size_55.jpg?v=1741378991",
+        "url": "https://blomas.in/products/zoe-dress"
+    },
+    {
+        "title": "Ariel Set",
+        "price": "2499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/ShopifySize_12.jpg?v=1734124236",
+        "url": "https://blomas.in/products/ariel-set"
+    },
+    {
+        "title": "Jenna Set",
+        "price": "2199.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/ShopifySize_8.jpg?v=1734123855",
+        "url": "https://blomas.in/products/jenna-set"
+    },
+    {
+        "title": "Lisa Dress",
+        "price": "2799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/ShopifySize_9.jpg?v=1734122970",
+        "url": "https://blomas.in/products/lisa-dress"
+    },
+    {
+        "title": "Tara Pants Set",
+        "price": "3599.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/2FA3497A-AFEC-4F0F-B2EB-F6BDC21F6F29.jpg?v=1730643004",
+        "url": "https://blomas.in/products/tara-pants-set"
+    },
+    {
+        "title": "Gianna Draped Saree",
+        "price": "4679.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/4975E847-6D1A-4792-9201-8A29C6B2C8D5.jpg?v=1729511888",
+        "url": "https://blomas.in/products/gianna-draped-saree"
+    },
+    {
+        "title": "Alana Draped Saree",
+        "price": "3999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/E0CAB609-D292-4BF2-8A83-3675AF94F2A0.jpg?v=1729237971",
+        "url": "https://blomas.in/products/alana-saree-copy"
+    },
+    {
+        "title": "Kiara Skirt Set",
+        "price": "4399.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Shopify_Size_57.jpg?v=1741379213",
+        "url": "https://blomas.in/products/kiara-set-copy"
+    },
+    {
+        "title": "Ruby Sharara Set",
+        "price": "4199.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/9246F33C-948A-4427-8344-1514B1F52388.jpg?v=1729237417",
+        "url": "https://blomas.in/products/ruby-set-copy"
+    },
+    {
+        "title": "Bella Top - Black",
+        "price": "1199.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/9B50DA5E-157A-46A7-93E6-2D12DABC4BEB.jpg?v=1729160248",
+        "url": "https://blomas.in/products/bella-top-black"
+    },
+    {
+        "title": "Noor Set",
+        "price": "3839.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/0F93081A-9E08-4A21-AE55-69151ADB1EF9.jpg?v=1726471699",
+        "url": "https://blomas.in/products/noor-set"
+    },
+    {
+        "title": "Emily Dress",
+        "price": "2799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Untitleddesign.jpg?v=1724433391",
+        "url": "https://blomas.in/products/emily-dress"
+    },
+    {
+        "title": "Lucy Dress - Pink",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Untitled_design_52.jpg?v=1722851342",
+        "url": "https://blomas.in/products/lucy-dress-pink"
+    },
+    {
+        "title": "Christina Waistcoat",
+        "price": "1399.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_bc6ba2c7-4369-4c41-b957-464c841706ad.jpg?v=1722671632",
+        "url": "https://blomas.in/products/christina-waistcoat"
+    },
+    {
+        "title": "Christina Set",
+        "price": "2899.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_6a5c243c-59c4-44a5-983d-7376c1fa384e.jpg?v=1722670119",
+        "url": "https://blomas.in/products/christina-set"
+    },
+    {
+        "title": "Rosa Dress",
+        "price": "2599.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/midi1.jpg?v=1722668656",
+        "url": "https://blomas.in/products/rosa-dress"
+    },
+    {
+        "title": "Mandy Pants",
+        "price": "2699.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/4_4083d71c-5554-47c7-bc73-54b725514a04.jpg?v=1715711816",
+        "url": "https://blomas.in/products/the-mandy-pants"
+    },
+    {
+        "title": "Serena Skirt",
+        "price": "1599.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_92baf5bc-b150-4681-bb39-76277a196517.jpg?v=1715711327",
+        "url": "https://blomas.in/products/the-serena-skirt"
+    },
+    {
+        "title": "Lola Skirt",
+        "price": "1499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_eba95e18-5adf-4377-b8bf-f860f7a0f5e7.jpg?v=1715710455",
+        "url": "https://blomas.in/products/the-lola-skirt"
+    },
+    {
+        "title": "Mandy Set",
+        "price": "2999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_06ea3946-edfa-48fc-93cc-3db7f94ea00a.jpg?v=1715711433",
+        "url": "https://blomas.in/products/the-mandy-set"
+    },
+    {
+        "title": "Serena Set",
+        "price": "2299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_1801a4f9-d6da-4360-b9f0-a16897862ae9.jpg?v=1715710836",
+        "url": "https://blomas.in/products/the-serena-set"
+    },
+    {
+        "title": "Lola Set",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_9cc07d04-8f67-49cf-aaaa-cb7bff5a71d2.jpg?v=1715841751",
+        "url": "https://blomas.in/products/the-lola-set"
+    },
+    {
+        "title": "Aria Set",
+        "price": "2299.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_b76b9e3a-abf1-449b-8b67-3d27562afcd6.jpg?v=1715938651",
+        "url": "https://blomas.in/products/the-aria-set"
+    },
+    {
+        "title": "Bella Top",
+        "price": "1499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_b3b7f020-076d-488e-bfb3-4adc456a1f1d.jpg?v=1715709201",
+        "url": "https://blomas.in/products/the-bella-top"
+    },
+    {
+        "title": "Willow Top",
+        "price": "799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/Untitled_design_30.jpg?v=1722410763",
+        "url": "https://blomas.in/products/the-willow-top"
+    },
+    {
+        "title": "Sofia Dress",
+        "price": "1799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_580dbcf2-e85e-4a3b-9b0e-8f4e1ca4842a.jpg?v=1715709690",
+        "url": "https://blomas.in/products/the-sofia-dress"
+    },
+    {
+        "title": "Millie Dress",
+        "price": "2799.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_4badd7b9-526b-406a-9deb-c48d114ed17c.jpg?v=1715709523",
+        "url": "https://blomas.in/products/the-millie-dress"
+    },
+    {
+        "title": "Lucy Dress",
+        "price": "1999.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1_100bc584-3695-4049-b5f0-e763c1960199.jpg?v=1715709352",
+        "url": "https://blomas.in/products/the-lucy-dress"
+    },
+    {
+        "title": "Dahlia Dress",
+        "price": "2499.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/2_6caa895e-0fb6-4994-bd7a-659d12a5d7fc.jpg?v=1716069007",
+        "url": "https://blomas.in/products/the-dahlia-dress"
+    },
+    {
+        "title": "Alice Dress",
+        "price": "2899.00",
+        "image": "https://cdn.shopify.com/s/files/1/0693/2906/0073/files/1.jpg?v=1715708803",
+        "url": "https://blomas.in/products/the-alice-dress"
+    }
+]

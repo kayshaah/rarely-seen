@@ -1,0 +1,524 @@
+[
+    {
+        "title": "Vesper",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0995.jpg?v=1776410012",
+        "url": "https://ruiaan.com/products/vesper"
+    },
+    {
+        "title": "Vanilla",
+        "price": "5400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0218.jpg?v=1776409854",
+        "url": "https://ruiaan.com/products/vanilla"
+    },
+    {
+        "title": "Tidal",
+        "price": "4800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_02212.jpg?v=1776409735",
+        "url": "https://ruiaan.com/products/tidal"
+    },
+    {
+        "title": "Sienna",
+        "price": "3600.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0098.jpg?v=1776409574",
+        "url": "https://ruiaan.com/products/sienna"
+    },
+    {
+        "title": "Serenity",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_1195_1.jpg?v=1776409327",
+        "url": "https://ruiaan.com/products/serenity"
+    },
+    {
+        "title": "Pulse",
+        "price": "3600.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0604.jpg?v=1776407866",
+        "url": "https://ruiaan.com/products/pulse"
+    },
+    {
+        "title": "Nimbus",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_02952.jpg?v=1776407708",
+        "url": "https://ruiaan.com/products/nimbus"
+    },
+    {
+        "title": "Musk",
+        "price": "3800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_01021.jpg?v=1776407555",
+        "url": "https://ruiaan.com/products/musk"
+    },
+    {
+        "title": "Mirage",
+        "price": "6200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_1080_1.jpg?v=1776407396",
+        "url": "https://ruiaan.com/products/mirage"
+    },
+    {
+        "title": "Lapis",
+        "price": "5400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_03781.jpg?v=1776406247",
+        "url": "https://ruiaan.com/products/lapis"
+    },
+    {
+        "title": "Juniper",
+        "price": "4800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0538.jpg?v=1776406093",
+        "url": "https://ruiaan.com/products/juniper"
+    },
+    {
+        "title": "Ivory",
+        "price": "4800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_01631.jpg?v=1776405786",
+        "url": "https://ruiaan.com/products/ivory"
+    },
+    {
+        "title": "Haze",
+        "price": "8800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_1121.jpg?v=1776405332",
+        "url": "https://ruiaan.com/products/haze"
+    },
+    {
+        "title": "Haven",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_05171.jpg?v=1776404872",
+        "url": "https://ruiaan.com/products/haven"
+    },
+    {
+        "title": "Fern",
+        "price": "5400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_01251.jpg?v=1776403712",
+        "url": "https://ruiaan.com/products/fern"
+    },
+    {
+        "title": "Eden",
+        "price": "3800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0486.jpg?v=1776403394",
+        "url": "https://ruiaan.com/products/eden"
+    },
+    {
+        "title": "Drift",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0946_1.jpg?v=1776402142",
+        "url": "https://ruiaan.com/products/drift"
+    },
+    {
+        "title": "Breeze",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_02491_1.jpg?v=1776401349",
+        "url": "https://ruiaan.com/products/breeze"
+    },
+    {
+        "title": "Solace",
+        "price": "8400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0250.jpg?v=1774349734",
+        "url": "https://ruiaan.com/products/solace-1"
+    },
+    {
+        "title": "Twilight",
+        "price": "8400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0158.jpg?v=1774349406",
+        "url": "https://ruiaan.com/products/twilight-1"
+    },
+    {
+        "title": "Lumina",
+        "price": "8400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0391.jpg?v=1774348415",
+        "url": "https://ruiaan.com/products/lumina-1"
+    },
+    {
+        "title": "Skylark Pants",
+        "price": "3600.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0562_2_1.jpg?v=1771921875",
+        "url": "https://ruiaan.com/products/skylark-pants"
+    },
+    {
+        "title": "Skylark Top",
+        "price": "4600.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/4_4.jpg?v=1772175521",
+        "url": "https://ruiaan.com/products/skylark-1"
+    },
+    {
+        "title": "Skylark",
+        "price": "8200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/2_3.jpg?v=1771921835",
+        "url": "https://ruiaan.com/products/skylark"
+    },
+    {
+        "title": "Arc Pants",
+        "price": "3600.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/1_1.jpg?v=1771922111",
+        "url": "https://ruiaan.com/products/arc-pants"
+    },
+    {
+        "title": "Arc Top",
+        "price": "4600.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/5_1.jpg?v=1771920361",
+        "url": "https://ruiaan.com/products/arc-top"
+    },
+    {
+        "title": "Arc",
+        "price": "8200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/1_1.jpg?v=1771922111",
+        "url": "https://ruiaan.com/products/arc"
+    },
+    {
+        "title": "Ember Pants",
+        "price": "3600.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/3_3.jpg?v=1771921564",
+        "url": "https://ruiaan.com/products/ember-pants"
+    },
+    {
+        "title": "Ember Top",
+        "price": "4600.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/1_2.jpg?v=1772175641",
+        "url": "https://ruiaan.com/products/ember-top"
+    },
+    {
+        "title": "Ember",
+        "price": "8200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/3_3.jpg?v=1771921564",
+        "url": "https://ruiaan.com/products/ember"
+    },
+    {
+        "title": "Luna",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/4_8.jpg?v=1771923336",
+        "url": "https://ruiaan.com/products/luna-1"
+    },
+    {
+        "title": "Suncrest",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0959_1.jpg?v=1771925057",
+        "url": "https://ruiaan.com/products/suncrest"
+    },
+    {
+        "title": "Honeybeam",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_1027_1.jpg?v=1771925172",
+        "url": "https://ruiaan.com/products/honeybeam"
+    },
+    {
+        "title": "Saanchi Gilani in Celeste",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Saanchi_in_Celeste.jpg?v=1775547440",
+        "url": "https://ruiaan.com/products/celeste"
+    },
+    {
+        "title": "Wisp",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/6_1.jpg?v=1771922631",
+        "url": "https://ruiaan.com/products/wisp"
+    },
+    {
+        "title": "Gleam",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/2_4.jpg?v=1771922261",
+        "url": "https://ruiaan.com/products/gleam"
+    },
+    {
+        "title": "Sandstone",
+        "price": "8200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/5_721b6047-5d3d-4f3a-8109-f632d8b14d07.jpg?v=1771993231",
+        "url": "https://ruiaan.com/products/sand-stone"
+    },
+    {
+        "title": "Aura",
+        "price": "8200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Ruiaan_Feb_0020_3.jpg?v=1771919298",
+        "url": "https://ruiaan.com/products/aura"
+    },
+    {
+        "title": "Martini",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A0306.jpg?v=1765952744",
+        "url": "https://ruiaan.com/products/martini"
+    },
+    {
+        "title": "Green Martini",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A1319_1.jpg?v=1765947803",
+        "url": "https://ruiaan.com/products/green-martini"
+    },
+    {
+        "title": "Green Lily",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A7901.jpg?v=1765947561",
+        "url": "https://ruiaan.com/products/green-lily"
+    },
+    {
+        "title": "Eclipse",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_6731.jpg?v=1762943647",
+        "url": "https://ruiaan.com/products/aw2501"
+    },
+    {
+        "title": "Timber",
+        "price": "6200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_5837.jpg?v=1762943974",
+        "url": "https://ruiaan.com/products/25ss48-1"
+    },
+    {
+        "title": "Glacier",
+        "price": "6800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_6894.jpg?v=1762945106",
+        "url": "https://ruiaan.com/products/25ss48-f-vest-c-523-pant"
+    },
+    {
+        "title": "Crimson",
+        "price": "5400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_6581.jpg?v=1762945457",
+        "url": "https://ruiaan.com/products/25ss50a"
+    },
+    {
+        "title": "Mehak Bakshi in Dawn",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/3_9176fc86-0158-496c-a183-a37dcc00b85a.jpg?v=1767866181",
+        "url": "https://ruiaan.com/products/cw1135"
+    },
+    {
+        "title": "Frostbite",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_6418.jpg?v=1763707274",
+        "url": "https://ruiaan.com/products/cw1135a"
+    },
+    {
+        "title": "Smridhi Sibal in Dusk",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Untitled_design_9_1.png?v=1766130910",
+        "url": "https://ruiaan.com/products/dusk"
+    },
+    {
+        "title": "Wonderland",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_6344.jpg?v=1763709008",
+        "url": "https://ruiaan.com/products/wonderland"
+    },
+    {
+        "title": "Twilight",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_6128.jpg?v=1763709506",
+        "url": "https://ruiaan.com/products/twilight"
+    },
+    {
+        "title": "Snowball",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_6512.jpg?v=1763709918",
+        "url": "https://ruiaan.com/products/snowball"
+    },
+    {
+        "title": "Midnight",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_6279.jpg?v=1763710595",
+        "url": "https://ruiaan.com/products/midnight"
+    },
+    {
+        "title": "Simran Luthria in Cherry",
+        "price": "6400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Untitled_design_2_1d97189c-f183-4555-afb2-19c512b061af.png?v=1766066240",
+        "url": "https://ruiaan.com/products/25ss61"
+    },
+    {
+        "title": "RENE",
+        "price": "8400.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_7485.jpg?v=1761289424",
+        "url": "https://ruiaan.com/products/rene"
+    },
+    {
+        "title": "BELLA",
+        "price": "7200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_7129.jpg?v=1761288649",
+        "url": "https://ruiaan.com/products/bella"
+    },
+    {
+        "title": "VERA",
+        "price": "6500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_7630.jpg?v=1761287880",
+        "url": "https://ruiaan.com/products/vera"
+    },
+    {
+        "title": "SAANCHI GILANI IN JUNE",
+        "price": "6500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/influencer_images_-_resize.png?v=1769248736",
+        "url": "https://ruiaan.com/products/june"
+    },
+    {
+        "title": "MONROE",
+        "price": "5800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_7476.jpg?v=1761286799",
+        "url": "https://ruiaan.com/products/monroe"
+    },
+    {
+        "title": "LOLA",
+        "price": "6800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_7710.jpg?v=1761285881",
+        "url": "https://ruiaan.com/products/lola"
+    },
+    {
+        "title": "Blondie",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_7210.jpg?v=1761284452",
+        "url": "https://ruiaan.com/products/aw24-29"
+    },
+    {
+        "title": "ROXY",
+        "price": "6800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_7776.jpg?v=1761284309",
+        "url": "https://ruiaan.com/products/25ss23"
+    },
+    {
+        "title": "Saanchi Gilani in BRANDY",
+        "price": "5200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/Untitled_design_8.png?v=1764564445",
+        "url": "https://ruiaan.com/products/25ss54"
+    },
+    {
+        "title": "COCO",
+        "price": "6800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/IMG_6988.jpg?v=1761281895",
+        "url": "https://ruiaan.com/products/25ss48"
+    },
+    {
+        "title": "Siren",
+        "price": "2800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A8205_1.jpg?v=1751613019",
+        "url": "https://ruiaan.com/products/25ss50"
+    },
+    {
+        "title": "Cortado",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A9520_1.jpg?v=1751611743",
+        "url": "https://ruiaan.com/products/25ss35a"
+    },
+    {
+        "title": "Roses",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A0729_1.jpg?v=1751611224",
+        "url": "https://ruiaan.com/products/25ss35"
+    },
+    {
+        "title": "Bloom",
+        "price": "1800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A9752.jpg?v=1751609411",
+        "url": "https://ruiaan.com/products/25ss7b"
+    },
+    {
+        "title": "Duvina",
+        "price": "1800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A9698.jpg?v=1751609075",
+        "url": "https://ruiaan.com/products/25ss7-black"
+    },
+    {
+        "title": "Soft Breeze",
+        "price": "2100.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A0491_1.jpg?v=1751608486",
+        "url": "https://ruiaan.com/products/aloha-mini-creme"
+    },
+    {
+        "title": "Celesa",
+        "price": "1800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A0863.jpg?v=1751607540",
+        "url": "https://ruiaan.com/products/aloha-animal"
+    },
+    {
+        "title": "Grace",
+        "price": "1800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A1079.jpg?v=1751607190",
+        "url": "https://ruiaan.com/products/aloha-blue"
+    },
+    {
+        "title": "Warm Hug",
+        "price": "1800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A9828.jpg?v=1751606727",
+        "url": "https://ruiaan.com/products/aloha-grey"
+    },
+    {
+        "title": "Soothe",
+        "price": "1800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A9864.jpg?v=1751606478",
+        "url": "https://ruiaan.com/products/aloha-black"
+    },
+    {
+        "title": "Wave Pants",
+        "price": "2300.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A8266_1.jpg?v=1747641107",
+        "url": "https://ruiaan.com/products/wave-pant"
+    },
+    {
+        "title": "Wave Kimono Shirt",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A8324_1.jpg?v=1747641107",
+        "url": "https://ruiaan.com/products/wave-top"
+    },
+    {
+        "title": "Rosae Pants",
+        "price": "2000.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A8556_7a3b2b77-a056-43a5-946e-810da1b9c728.jpg?v=1747481037",
+        "url": "https://ruiaan.com/products/rosae-pants"
+    },
+    {
+        "title": "Rosae Top",
+        "price": "1800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A8556_8a302088-5bd7-4101-b842-d29f54d6e638.jpg?v=1747480786",
+        "url": "https://ruiaan.com/products/rosae-top"
+    },
+    {
+        "title": "Verena",
+        "price": "2100.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A0444.jpg?v=1745477405",
+        "url": "https://ruiaan.com/products/css119b"
+    },
+    {
+        "title": "Rhea",
+        "price": "2100.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A9991.jpg?v=1745392266",
+        "url": "https://ruiaan.com/products/25ss116"
+    },
+    {
+        "title": "Rosae",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A8607.jpg?v=1745319785",
+        "url": "https://ruiaan.com/products/25ss22a"
+    },
+    {
+        "title": "Blue Lily",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A7812.jpg?v=1745222029",
+        "url": "https://ruiaan.com/products/blue-lily-1"
+    },
+    {
+        "title": "Green Fin Dress",
+        "price": "3200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A1128_1.jpg?v=1744271416",
+        "url": "https://ruiaan.com/products/green-fin-dress"
+    },
+    {
+        "title": "Wave",
+        "price": "5500.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A8324_1.jpg?v=1747641107",
+        "url": "https://ruiaan.com/products/wave"
+    },
+    {
+        "title": "Simran Luthria In Red Martini",
+        "price": "4200.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/0E5A9347.jpg?v=1759207167",
+        "url": "https://ruiaan.com/products/simran-luthria-in-red-martini"
+    },
+    {
+        "title": "Ocean",
+        "price": "1800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/3G5A8280_1_1.jpg?v=1726228721",
+        "url": "https://ruiaan.com/products/eoo-aw24-30"
+    },
+    {
+        "title": "Anaita Shroff Adjania in Amara",
+        "price": "2800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/anaita.jpg?v=1737001497",
+        "url": "https://ruiaan.com/products/eoo-c233e"
+    },
+    {
+        "title": "Teal",
+        "price": "2800.00",
+        "image": "https://cdn.shopify.com/s/files/1/0473/8852/4704/files/3G5A7488.jpg?v=1726299081",
+        "url": "https://ruiaan.com/products/eoo-aw24-18a"
+    }
+]

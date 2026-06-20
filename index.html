@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rarely Seen</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Great+Vibes&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css?v=24">
+    <!-- D3.js for Physics Engine -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div class="watermark-bg"></div>
+
+    <!-- Global Promo Ticker -->
+    <div class="promo-ticker">
+        <div class="ticker-content">
+            Welcome to Rarely Seen &nbsp;&nbsp;✦&nbsp;&nbsp; Discover Emerging Brands
+        </div>
+    </div>
+
+    <!-- Splash Screen (runs once per session) -->
+    <div class="splash-overlay" id="splash-overlay">
+        <div class="splash-square">
+            <div class="splash-piece piece-tl"></div>
+            <div class="splash-piece piece-br"></div>
+            <div class="splash-content">
+                <h2 class="splash-title">Week 1</h2>
+                <div class="splash-ornament">❖</div>
+                <h3 class="splash-subtitle">This Week's Featured Brands</h3>
+                <div class="splash-brands" id="splash-brands">
+                    <!-- Random brands injected via JS -->
+                </div>
+                <p class="splash-hint">Click anywhere to continue</p>
+            </div>
+        </div>
+    </div>
+    <main class="content">
+        <header class="top-header">
+            <h1 class="main-title">Rarely Seen</h1>
+            <p class="tagline">One place to discover all homegrown brands</p>
+        </header>
+
+        <!-- Hero Section with 3-Column Layout -->
+        <section class="hero-layout" id="hero-layout">
+            
+            <!-- Left Sidebar -->
+            <aside class="sidebar-left" id="sidebar-left">
+                <div class="sidebar-widget">
+                    <div class="sidebar-title">New Arrival</div>
+                    <div class="spotlight-card" id="new-arrival-card">
+                        <!-- Injected by JS -->
+                    </div>
+                </div>
+                
+                <div class="sidebar-widget">
+                    <div class="sidebar-title">Spotlight Brand</div>
+                    <div class="spotlight-card" id="spotlight-card">
+                        <!-- Injected by JS -->
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Center Honeycomb -->
+            <div class="honeycomb-container" id="honeycomb-container">
+                <!-- Bubbles injected by D3 -->
+            </div>
+
+            <!-- Right Sidebar -->
+            <aside class="sidebar-right" id="sidebar-right">
+                <div class="sidebar-widget">
+                    <div class="sidebar-title">Limited Edition</div>
+                    <div class="spotlight-card" id="limited-edition-card">
+                        <!-- Injected by JS -->
+                    </div>
+                </div>
+
+                <div class="sidebar-widget">
+                    <div class="sidebar-title">Curated Collections</div>
+                    <div class="curated-stack" id="curated-stack">
+                        <!-- Injected by JS -->
+                    </div>
+                </div>
+            </aside>
+            
+        </section>
+
+        <!-- Product Page (Hidden by Default) -->
+        <section id="product-page" class="product-page" style="display: none;">
+            <div class="product-page-header">
+                <button id="back-btn" class="back-btn">← Back to Honeycomb</button>
+                <div class="price-filter">
+                    <label>Category:</label>
+                    <select id="category-filter">
+                        <option value="all">All</option>
+                        <option value="tops">Tops</option>
+                        <option value="bottoms">Bottoms</option>
+                        <option value="dresses">Dresses</option>
+                        <option value="coords">Co-ords</option>
+                    </select>
+                    <label style="margin-left: 10px;">Price:</label>
+                    <input type="number" id="min-price" placeholder="Min ₹">
+                    <span>-</span>
+                    <input type="number" id="max-price" placeholder="Max ₹">
+                    <button id="apply-filter-btn" class="filter-btn">Apply</button>
+                </div>
+            </div>
+            <div class="product-grid" id="product-grid">
+                <!-- Product placeholders injected by JS -->
+            </div>
+            <div class="load-more-container">
+                <button id="load-more-btn" class="load-more-btn" style="display: none;">Load More</button>
+            </div>
+        </section>
+    </main>
+
+    <!-- Global Footer -->
+    <hr class="footer-divider">
+    <footer class="global-footer">
+        <div class="footer-content">
+            <div class="footer-mission">
+                <strong>Our Mission</strong><br>
+                Rarely Seen is dedicated to unearthing the hidden gems of the fashion world. We bring you exclusive, high-quality pieces from emerging and independent brands that you won't find anywhere else.
+            </div>
+            <div class="footer-contact">
+                <strong>Contact Us</strong><br>
+                hello@rarelyseen.com | +91 98765 43210<br>
+                Follow our journey on Instagram @rarelyseen
+            </div>
+        </div>
+    </footer>
+
+    <script src="app.js?v=17"></script>
+</body>
+</html>
