@@ -370,8 +370,8 @@ document.addEventListener('DOMContentLoaded', () => {
             // Hide sidebars during product view
             const sbLeft = document.getElementById('sidebar-left');
             const sbRight = document.getElementById('sidebar-right');
-            if(sbLeft) sbLeft.style.opacity = '0';
-            if(sbRight) sbRight.style.opacity = '0';
+            if(sbLeft) sbLeft.style.display = 'none';
+            if(sbRight) sbRight.style.display = 'none';
 
             // 4. Create a Fixed Clone of the bubble for scroll-proof animation
             const rect = this.getBoundingClientRect();
@@ -492,8 +492,14 @@ document.addEventListener('DOMContentLoaded', () => {
             // Bring back sidebars
             const sbLeft = document.getElementById('sidebar-left');
             const sbRight = document.getElementById('sidebar-right');
-            if(sbLeft) sbLeft.style.opacity = '1';
-            if(sbRight) sbRight.style.opacity = '1';
+            if(sbLeft) {
+                sbLeft.style.display = 'flex';
+                sbLeft.style.opacity = '1';
+            }
+            if(sbRight) {
+                sbRight.style.display = 'flex';
+                sbRight.style.opacity = '1';
+            }
 
             // Scroll safely to top so the honeycomb is visible
             window.scrollTo({top: 0, behavior: 'smooth'});
