@@ -377,22 +377,23 @@ document.addEventListener('DOMContentLoaded', () => {
             const rect = this.getBoundingClientRect();
             const clone = this.cloneNode(true);
             clone.id = 'fixed-bubble';
-            clone.style.position = 'absolute';
-            clone.style.left = (rect.left + window.scrollX) + 'px';
-            clone.style.top = (rect.top + window.scrollY) + 'px';
+            clone.style.position = 'fixed';
+            clone.style.left = rect.left + 'px';
+            clone.style.top = rect.top + 'px';
             clone.style.margin = '0'; // Strip D3 margins
             clone.style.zIndex = '2000';
             clone.style.transition = 'all 0.8s cubic-bezier(0.34, 1.56, 0.64, 1)';
             document.body.appendChild(clone);
             
-            // Hide original bubble
+            // Hide original bubble instantly
+            clickedBubble.style('transition', 'none');
             clickedBubble.style('opacity', '0');
             
             // Fly clone to top left
             setTimeout(() => {
-                clone.style.left = (40 + window.scrollX) + 'px';
-                clone.style.top = (40 + window.scrollY) + 'px';
-                clone.style.transform = 'scale(0.8)';
+                clone.style.left = isMobile ? '10px' : '40px';
+                clone.style.top = isMobile ? '50px' : '40px';
+                clone.style.transform = isMobile ? 'scale(0.6)' : 'scale(0.8)';
             }, 50);
             
             // 5. Populate and show Product Page
@@ -508,8 +509,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const clone = document.getElementById('fixed-bubble');
             const rect = clickedBubble.node().getBoundingClientRect();
             if (clone) {
-                clone.style.left = (rect.left + window.scrollX) + 'px';
-                clone.style.top = (rect.top + window.scrollY > 0 ? rect.top + window.scrollY : 400) + 'px';
+                clone.style.left = rect.left + 'px';
+                clone.style.top = rect.top + 'px';
                 clone.style.transform = 'scale(1)';
             }
             
@@ -519,6 +520,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Wait for bubbles to physically fly back up via CSS transition, then hand control back to D3
             setTimeout(() => {
                 if (clone) clone.remove();
+                clickedBubble.style('transition', '');
                 clickedBubble.style('opacity', '1');
                 prodPage.style.display = 'none';
                 window.selectedNode = null;
